@@ -51,7 +51,7 @@
 							<a href="index.html" title="Built by Buffalo - Web Design Brighton UK">
 								<img class="logo-img" src="assets/img/WebGreeds.png" alt="Buffalo" />
 							</a>
-						<p class="text-right omega"><a href="contact.html">Contact</a>
+						<p class="text-right omega"><a href="javascript:void(0)" id="contactTo">Contact</a>
 					</div>
 				</nav> <!-- /#nav -->
 
@@ -243,7 +243,7 @@
         </ul>
 	</section>
 
-	<section class="section grid-14 center" itemscope itemtype="http://schema.org/LocalBusiness">
+	<section class="section grid-14 center" itemscope id="contact">
         <meta itemprop="name" content="Buffalo" />
 
 		<hr class="grid-2 center" />
@@ -445,5 +445,12 @@ $('#hotel-mahalaxmi').tooltipster({
     side: 'right',
     theme: 'tooltipster-punk'
 });
+
+$("#contactTo").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#contact").offset().top
+    }, 2000);
+});
+
 </script>
 </html>
