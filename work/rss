@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <atom:link href="http://builtbybuffalo.com/work/feed" rel="self" type="application/rss+xml" />
+    <description>Buffalo's portfolio feed</description>
+	<link>http://builtbybuffalo.com/work/feed</link>
+    <title>Buffalo's Portfolio Feed</title>
+    <category>buffalo/work</category>
+	<language>en-gb</language>
+    <webMaster><![CDATA[Buffalo <hello@builtbybuffalo.com>]]></webMaster>
+    <generator>Buffalo's RSS Generator</generator>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Founded in 2004 Trendy Sports has enjoyed huge success as one of the leading online shops for designer golf clothing.</p>
+
+<p>Trendy Sports approached us in early 2008 and asked us to refresh the design, make the site more usable and provide them with more backend functionality.</p>
+
+<p>In 2015 they returned for a rebuild from scratch, we built it using Spree Commerce and worked to keep their existing systems in place along with creating a gorgeous new design to tie things together.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/trendy-sports</link>
+    <pubDate>Thu, 14 Apr 16 09:36:00 +0100</pubDate>
+    <title><![CDATA[Trendy Sports]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>The clever people at Knock Knock make lovely videos for a lot of brands that you will have likely seen.</p>  
+
+<p>We worked with them to rebrand, redesign and rebuild their site. Built using Expression Engine allowing Knock Knock to easily update and add new work.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/knock-knock</link>
+    <pubDate>Tue, 19 Apr 16 09:58:00 +0100</pubDate>
+    <title><![CDATA[Knock Knock]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Having been around for the best part of a century Charles Kendall know a thing or two about logistics.</p>  
+
+<p>We worked with them to revamp their brand and completely redesign and rebuild their site.  The previous incarnation had 8 separate sites for their services - these have now been combined under one domain.</p>
+
+<p>Built using Expression Engine the team at Charles Kendall have been constantly editing their content from launch - something they couldn't easily do with the previous sites.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/charles-kendall</link>
+    <pubDate>Thu, 17 Dec 15 10:31:00 +0000</pubDate>
+    <title><![CDATA[Charles Kendall]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>We were delighted to work on the new TedxBrighton site.</p>
+
+<p>Taking the content from the original site and working it up into a melting pot of content, ideas and brand was a lot of fun.  Based on Wordpress the Ted team already knew how to get cracking with adding and editing content.</p>
+
+<p>Fully responsive - site the focuses on showcasing the upcoming event whilst providing a place to watch talks for years gone by.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/tedxbrighton</link>
+    <pubDate>Fri, 21 Aug 15 15:58:00 +0100</pubDate>
+    <title><![CDATA[TedxBrighton]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Their products are absolutely beautiful and we couldn't be prouder to work with their founder Massimo Buster Minale to translate their brand online.</p>
+
+<p>Built using Spree Commerce the site has a trade system and features integration with Xero for accounting. It allows the client to concentrate on new ideas rather than administration - naturally the site is also fully responsive.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/buster-and-punch</link>
+    <pubDate>Wed, 20 May 15 15:24:00 +0100</pubDate>
+    <title><![CDATA[Buster and Punch]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>The first time we saw String's AR showcase we couldn't believe how immersive it was.  Two years later we got to work with them.</p>
+
+<p>Working closely with founder Al Maxwell we put together a site that pulls together animation, video and subtle UI detailing.</p>
+
+<p>The end result is something that tries to be as immerse as their product offering and has led to an increase volume of enquiries from new recruits and potential companies alike.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/string</link>
+    <pubDate>Fri, 31 Oct 14 09:20:00 +0000</pubDate>
+    <title><![CDATA[String]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Momiji began back in 2005 when they created their first 12 doll set.  Since then they have developed a passionate community of collectors.</p>
+
+<p>We worked to create a site that fused an easy shopping experience with the quirky brand that Momiji's fans love.</p>
+
+<p>Built using Spree Commerce the site tracks stock and fulfilment across warehouses around the world and as with all our sites is fully responsive..</p>]]></description>
+    <link>http://builtbybuffalo.com/project/momiji</link>
+    <pubDate>Wed, 20 May 15 15:17:00 +0100</pubDate>
+    <title><![CDATA[Momiji]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Slice create amazing events for clients like Santander, Nike and Lynx.</p>
+
+<p>The site pulls together animation, video and subtle UI interaction throughout.</p>
+
+<p>Built with Expression Engine the site lets Slice keep their content updated whenever the needs arises.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/slice</link>
+    <pubDate>Wed, 20 May 15 15:11:00 +0100</pubDate>
+    <title><![CDATA[Slice]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Known around the bike world  - Dom Mason wanted to create the most beautiful, engineered frame and bike components with his new venture.</p>
+
+<p>We worked with Dom from the early stages of the company to put together an immersive site that showcases beautiful photography and the attention to detail that comes out in each product.</p>
+
+<p>Built using Spree Commerce the site tracks stock and bike builds - letting Mason Cycles concentrate on new products rather than administration - naturally the site is also fully responsive.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/mason-cycles</link>
+    <pubDate>Wed, 20 May 15 14:58:00 +0100</pubDate>
+    <title><![CDATA[Mason Cycles]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>The clever people at ACM wanted a site to reflect their change in business show off their great new branding.</p>
+
+<p>Focusing one their beautiful content we created a site that supports getting new items up without drama and lets them keep a consolidated social media feed to keep things really fresh.</p>
+
+<p>We built an inventory to catalogue nearly twenty years of work and put together a planner to let people engage with ACM to get in touch.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/all-conditions-media</link>
+    <pubDate>Thu, 28 Aug 14 09:00:00 +0100</pubDate>
+    <title><![CDATA[All Conditions Media]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Working with BBDO New York and HBO we built a game that lets users guess their favourite HBO show by watching jump cut videos of fans describing each programme.</p>
+
+<p>The site allowed you to challenge your friends on Facebook and each play could result in an overall price along with weekly bonus prizes from HBO.</p>
+
+<p>With a separate version for mobile devices and an optimised experience for tablets the project was very successful - generating a lot of attention</p>]]></description>
+    <link>http://builtbybuffalo.com/project/att-showoff</link>
+    <pubDate>Fri, 07 Mar 14 11:35:00 +0000</pubDate>
+    <title><![CDATA[AT&amp;T: Showoff]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Working with the talented guys at <a href="http://ensolondon.com">ENSO</a> we created a slick animated petition against Head and Shoulders exploitation of the rainforest.</p>
+
+<p>With multiple translations for territories around the world the site worked flawlessly on tablet and mobile.  With nearly 250,000 signatures the project has been picked up across the world.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/greenpeace</link>
+    <pubDate>Fri, 07 Mar 14 11:15:00 +0000</pubDate>
+    <title><![CDATA[Greenpeace]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Fake Love create amazing digital experiences for some of the largest brands in the world.  We created a site that allows them to share their work with the rest of the world.</p>
+
+<p>Tailored for mobile and tablet it is powered with Expression Engine to mean they can make changes whenever required.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/fake-love</link>
+    <pubDate>Fri, 07 Mar 14 11:07:00 +0000</pubDate>
+    <title><![CDATA[Fake Love]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Amazing content, images and a great bunch of guys to work with.  We couldn't really ask for more from this client.</p>
+
+<p>Taking influence from magazine and long form content we created something that shows off the detail of Looking Sideways. Powered by Wordpress we allowed them to put together very bespoke pages using minimal code.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/looking-sideways</link>
+    <pubDate>Fri, 07 Mar 14 11:21:00 +0000</pubDate>
+    <title><![CDATA[Looking Sideways]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Another collaboration with our good friends at Proud Creative - we handled the front and backend development of this one. The site features some tight integration of our CMS Mozzarella.</p>
+
+<p>The final project is something which allows Getty to show their trends magazine in a clear and structural framework - allowing the content to shine through.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/getty-images-curve</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Getty Images - Curve]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Working with the fantastic guys at Proud Creative we handled the front and backend development of the site.  It features some silky Javascript, mobile integration - all wrapped up in a simple CMS.</p>
+
+<p>The end result is something that allows the client's fantastic content to shine through and provides a platform that can suport their rapid expansion.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/clear-channel-international</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Clear Channel International]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>ATC put on fantastic and challenging plays around the world with artistic and critical acclaim. Working with a fresh new brand direction we were briefed to completely redesign their site.</p>
+
+<p>We created something that also works well on mobile and tablet - all powered with an Expression Engine CMS that lets the team keep the site bang up to date.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/actors-touring-company</link>
+    <pubDate>Fri, 07 Mar 14 10:57:00 +0000</pubDate>
+    <title><![CDATA[Actors Touring Company]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>We were asked to rework Brighton Source magazine's site. We focused on the fantastic content they produce - giving a clean and tight design to back it all up</p>
+
+<p>The site is a Wordpress/Mozzarella hybrid which also features a system to add and export listings straight to InDesign to speed up the print magazine's process.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/brighton-source</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Brighton Source]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Geckoboard pulls stats and metrics from web apps into a lovely collated interface. </p>
+
+<p>We designed and built the front end of the site then passing it on to the lovely guys at Geckoboard. It was a fantastic pleasure to work on and looks great on iPad, LCD TV and monitor alike.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/geckoboard</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Geckoboard]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Feast is an online magazine that focuses on a theme each month and allows designers and creatives to come together with submissions.</p>
+
+<p>Working direct to the client we worked to put together a simple backend system that supports easy updating - in this case using Expression Engine.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/istockphoto-feast</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[iStockPhoto - Feast]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>Open Air Theatre - a prestigious venue in Regent's Park London asked us to create their latest site - from the ground up. </p>
+
+<p>This project flexed every one of our creative and technical muscles - planning, design, build and CMS. All elements of the site are editable by the theatre team themselves using our product Mozzarella. </p>
+
+<p>Visit the theatre this summer to catch one of their fantastic productions - we liked it so much we went three times last year!</p>]]></description>
+    <link>http://builtbybuffalo.com/project/open-air-theatre</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Open Air Theatre]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>After building the backend of their previous site Salon Supplies approached us to completely redesign with a focus on making the purchase process as simple as possible. </p>
+
+<p>We also rebuilt their complex offers system to allow the same type of discounts found in their monthly offer sheet. A tough challenge!</p>]]></description>
+    <link>http://builtbybuffalo.com/project/salon-supplies</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Salon Supplies]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>As big fans of their motion graphics work we were excited to work together. We took their designs and built a backend to allow them to keep everyone up to date with their work.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/we-are-seventeen</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[We Are Seventeen]]></title>
+</item>
+<item>
+    <author><![CDATA[buffalo <hello@builtbybuffalo.com>]]></author>
+    <description><![CDATA[<p>To mark its 10th anniversary Fabrics and Papers commissioned us to redesign its e-commerce site.</p>
+
+<p>The site features over four thousand different designs of wallpaper, curtain and upholstery fabrics, items of furniture and lighting from over thirty of the leading interior design houses. </p>
+
+<p>The designer's notebook allows the team to add new themes along with the ability for users to create schemes of items they like.</p>]]></description>
+    <link>http://builtbybuffalo.com/project/fabrics-and-papers</link>
+    <pubDate>Tue, 30 Oct 12 09:36:00 +0000</pubDate>
+    <title><![CDATA[Fabrics and Papers]]></title>
+</item>
+</channel>
+</rss>
